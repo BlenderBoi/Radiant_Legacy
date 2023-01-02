@@ -100,6 +100,9 @@ Most of the Icon are Turned Off by default
 
 For Each light in the Panel, You can Expand And Edit the Light's Properties, Such as Power, Shadow Soft Size, Factor, and more
 
+![LightProperties](https://user-images.githubusercontent.com/79613445/210191738-052e0327-38a3-441b-880d-5f5233702263.png)
+
+
 ### Light Temperature
 
 Control Light Color Using Kelvin Temperature
@@ -112,7 +115,32 @@ Control Light Color Using Kelvin Temperature
 	
 	This Does not Use the Blackbody Node but Instead Setting the Light Color Directly
 
-![LightProperties](https://user-images.githubusercontent.com/79613445/210191738-052e0327-38a3-441b-880d-5f5233702263.png)
+
+
+## Light Tags & List Filter
+
+You Can Tag the Light so that You can Filter Them
+
+### Light Tags
+
+Light Tag is something you can add to a light to be used in the List Filter, Useful for Categorizing Your Lights
+
+[LightTags.webm](https://user-images.githubusercontent.com/79613445/210191830-24528efe-42b1-4921-acc0-94d25d186d32.webm)
+
+
+### Light List Filter
+
+| Item | Description |
+| -- | -- |
+| All |	List All the Lights In the Scene |
+| Selected |	List Only Selected Lights |
+| Active |	Show Only Active Light |
+| Collection |	Show Light in Collection |
+| Tags |	Filter Light by Tags |
+| Pinned |	Only Show Pinned Lights |
+| Type 	| Filter Light Base on the Type of the Lights |
+
+
 
 ## Radiant Tools
 
