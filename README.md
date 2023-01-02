@@ -49,6 +49,13 @@ If the Raymesh use Light as Driver, it means the Custom Property in Raymesh Obje
 	
 	While it is Compatible with Cycles, because it heavily relies on transparency to work, it might not look as good in cycles, and you might need to increase your transparent light bounce for it to work, which could increase in render time
 
+
+| Point | Spot | Area|
+| -- | -- | -- |
+| [PointGlow.webm](https://user-images.githubusercontent.com/79613445/210191921-7b20848c-6666-40e9-9150-c6e3d3a33175.webm)
+|[SpotGlow.webm](https://user-images.githubusercontent.com/79613445/210191925-7be1605b-6933-432d-893d-a0acf3990a27.webm)
+ | [AreaGlow.webm](https://user-images.githubusercontent.com/79613445/210191933-71dd68b2-0fca-4558-a14c-276264f90be3.webm)|
+
 ## Light Panel
 
 List the Light in Your Scene to the Side Panel and access multiple light at once. It gives you a Filterable Overview of the Light in Your Scene.
