@@ -50,10 +50,11 @@ If the Raymesh use Light as Driver, it means the Custom Property in Raymesh Obje
 	While it is Compatible with Cycles, because it heavily relies on transparency to work, it might not look as good in cycles, and you might need to increase your transparent light bounce for it to work, which could increase in render time
 
 
+[PointGlow.webm](https://user-images.githubusercontent.com/79613445/210192228-383de7a8-3785-4992-8909-f2add6a79b2f.webm)
 
-[PointGlow.webm](https://user-images.githubusercontent.com/79613445/210192140-b8a05176-f411-4d4f-aa62-6c984535882e.webm) 
-[SpotGlow.webm](https://user-images.githubusercontent.com/79613445/210192145-1426b612-c764-41e9-ac78-795b8397876c.webm) 
-[AreaGlow.webm](https://user-images.githubusercontent.com/79613445/210192152-8ef7b7c1-47ba-4239-8b7f-9acffc5f9879.webm)
+[SpotGlow.webm](https://user-images.githubusercontent.com/79613445/210192238-ffe094c5-eb2e-4e99-bdc9-09cc8d702311.webm)
+
+[AreaGlow.webm](https://user-images.githubusercontent.com/79613445/210192247-dc407a12-bdcb-4b88-910d-52bab5851fce.webm)
 
 
 ## Light Panel
