@@ -53,7 +53,7 @@ If the Raymesh use Light as Driver, it means the Custom Property in Raymesh Obje
 
 List the Light in Your Scene to the Side Panel and access multiple light at once. It gives you a Filterable Overview of the Light in Your Scene.
 
-![Light Panel](https://BlenderBoi.com/gallery/Radiant/LightPanel.png)
+![LightPanel](https://user-images.githubusercontent.com/79613445/210191730-da9397ad-cab5-42cc-9f96-08e1ebd16fa2.png)
 
 ### Why Not Outliner?
 
@@ -63,13 +63,15 @@ Outliner can be cluttered sometimes, especially on more complex scene, this Pane
 
 With each Light Listed, there are some operation you can do to each lights
 
-![Default Light Panel Header](https://BlenderBoi.com/gallery/Radiant/DefaultLightPanelHeader.png)
+
+![DefaultLightPanelHeader](https://user-images.githubusercontent.com/79613445/210191722-75dc6fdb-023e-4512-9a3d-e54135cee010.png)
 
 You Can Turn the Buttons / Icons you want on or off under the Icon Expose Subpanel,
 
 Below Example of All the Icons Turned On
 
-![Full Light Panel Header](https://BlenderBoi.com/gallery/Radiant/FullLightPanelHeader.png)
+![FullLightPanelHeader](https://user-images.githubusercontent.com/79613445/210191726-555e0f61-76e9-4e25-8f43-2a86022c2dc6.png)
+
 
 Most of the Icon are Turned Off by default
 
@@ -98,20 +100,25 @@ Most of the Icon are Turned Off by default
 
 For Each light in the Panel, You can Expand And Edit the Light's Properties, Such as Power, Shadow Soft Size, Factor, and more
 
-You Can Also Set the Light Temperature
+### Light Temperature
+
+Control Light Color Using Kelvin Temperature
+
+[LightTemperature.webm](https://user-images.githubusercontent.com/79613445/210191713-7d4c17dc-6011-4b06-8b1d-b76112fa624c.webm)
+
 
 	IMPORTANT:
 	The Temperature only changes the color on the Light when you drag the slider, Which means it will not work if you Keyframe the Temperature
 	
 	This Does not Use the Blackbody Node but Instead Setting the Light Color Directly
 
-![Light Properties](https://BlenderBoi.com/gallery/Radiant/LightProperties.png)
+![LightProperties](https://user-images.githubusercontent.com/79613445/210191738-052e0327-38a3-441b-880d-5f5233702263.png)
 
 ## Radiant Tools
 
 Some More Minor tools that can be useful in some situation
 
-![Radiant Tools](https://BlenderBoi.com/gallery/Radiant/RadiantTools.png)
+![RadiantTools](https://user-images.githubusercontent.com/79613445/210191743-cb067de2-20d4-4fb8-9305-a26edc3f6cf0.png)
 
 
 ### Create Mesh From Area Lights
