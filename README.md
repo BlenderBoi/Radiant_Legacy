@@ -32,8 +32,7 @@ If the Raymesh use Light as Driver, it means the Custom Property in Raymesh Obje
 |--|--|--|
 |![PointRaymesh](https://user-images.githubusercontent.com/79613445/210191637-d485439d-57f4-4ca2-a523-3b5bbe971618.png)
 |![SpotRaymesh](https://user-images.githubusercontent.com/79613445/210191640-ca693d1f-0eb7-409b-a090-cad23143bdfc.png)
-|![AreaRaymesh](https://user-images.githubusercontent.com/79613445/210191645-e5dbe08b-3e39-4f8e-8eb6-b8160dccb7d4.png)
-|
+|![AreaRaymesh](https://user-images.githubusercontent.com/79613445/210191645-e5dbe08b-3e39-4f8e-8eb6-b8160dccb7d4.png)|
 
 
 	Technical Information:
