@@ -51,10 +51,7 @@ If the Raymesh use Light as Driver, it means the Custom Property in Raymesh Obje
 
 
 | Point | Spot | Area|
-| [PointGlow.webm](https://user-images.githubusercontent.com/79613445/210191992-e53b4019-6d03-4ae3-8a22-2713e07e7ba1.webm)
- | [SpotGlow.webm](https://user-images.githubusercontent.com/79613445/210192001-3c87f652-ebe1-4a63-8592-71074b0969e0.webm)
- | [AreaGlow.webm](https://user-images.githubusercontent.com/79613445/210192012-2ef9ec11-7348-4a05-9dc8-bd69fcd98168.webm)
-|
+| [PointGlow.webm](https://user-images.githubusercontent.com/79613445/210191992-e53b4019-6d03-4ae3-8a22-2713e07e7ba1.webm) | [SpotGlow.webm](https://user-images.githubusercontent.com/79613445/210192001-3c87f652-ebe1-4a63-8592-71074b0969e0.webm) | [AreaGlow.webm](https://user-images.githubusercontent.com/79613445/210192012-2ef9ec11-7348-4a05-9dc8-bd69fcd98168.webm) |
 
 ## Light Panel
 
