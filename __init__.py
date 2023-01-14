@@ -1,7 +1,7 @@
 bl_info = {
     "name": "Radiant",
     "author": "BlenderBoi",
-    "version": (1, 3, 0),
+    "version": (1, 3, 1),
     "blender": (3, 1, 0),
     "description": "",
     "wiki_url": "",

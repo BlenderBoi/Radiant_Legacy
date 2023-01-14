@@ -116,6 +116,7 @@ class Radiant_OT_Add_RayMesh(bpy.types.Operator):
             appended_object.rotation_euler[1] = 0
             appended_object.rotation_euler[2] = 0
 
+            appended_object.data.update()
             
 
 
