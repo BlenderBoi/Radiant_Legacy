@@ -200,7 +200,7 @@ def get_object_indices(object):
 def append_object_normal(filepath, object_name):
 
     blendfile = filepath
-    section   = "\\Object\\"
+    section   = "/Object/"
     object    = object_name
 
     directory = blendfile + section
@@ -221,7 +221,7 @@ def append_object_normal(filepath, object_name):
 def append_object(filepath, object_name):
 
     blendfile = filepath
-    section   = "\\Object\\"
+    section   = "/Object/"
     object    = object_name
 
     directory = blendfile + section
